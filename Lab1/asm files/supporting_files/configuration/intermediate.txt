@@ -1,0 +1,4 @@
+.text 4
+load
+load
+add %x4, %x5, %x6

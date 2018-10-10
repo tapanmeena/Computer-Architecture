@@ -1,0 +1,6 @@
+Exception in thread "main" java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+	at java.base/java.util.ArrayList.rangeCheckForAdd(ArrayList.java:685)
+	at java.base/java.util.ArrayList.add(ArrayList.java:494)
+	at generic.ParsedProgram.parseCodeSection(ParsedProgram.java:113)
+	at generic.Simulator.setupSimulation(Simulator.java:17)
+	at main.Main.main(Main.java:20)
